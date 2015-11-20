@@ -1,0 +1,16 @@
+.gradle/2.5/taskArtifacts/cache.properties
+*.lock
+server/gradlew
+server/gradlew.bat
+*.jar
+out/artifacts/humancloud/exploded/humancloud-0.0.1-SNAPSHOT.war/META-INF/MANIFEST.MF
+*.bin
+.idea/.name
+.idea/compiler.xml
+server/gradlew.bat
+server/gradle/wrapper/gradle-wrapper.jar
+*.iml
+.idea/.name
+.idea/artifacts/Gradle___server_server___server_0_1_war__exploded_.xml
+build/tmp/war/MANIFEST.MF
+client/.travis.yml
