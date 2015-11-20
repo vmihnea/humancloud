@@ -19,3 +19,14 @@ gradlew
 *.jshintrc
 client/.yo-rc.json
 client/.bowerrc
+.idea/artifacts/Gradle___com_sprinten_humancloud___humancloud_0_0_1_SNAPSHOT_war.xml
+.idea/encodings.xml
+.idea/workspace.xml
+*.editorconfig
+client/.jscsrc
+server/gradle/wrapper/gradle-wrapper.properties
+.idea/gradle.xml
+gradle/wrapper/gradle-wrapper.properties
+.idea/misc.xml
+.idea/artifacts/Gradle___com_sprinten_humancloud___humancloud_0_0_1_SNAPSHOT_war__exploded_.xml
+gradlew.bat
