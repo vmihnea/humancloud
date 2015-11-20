@@ -14,3 +14,8 @@ server/gradle/wrapper/gradle-wrapper.jar
 .idea/artifacts/Gradle___server_server___server_0_1_war__exploded_.xml
 build/tmp/war/MANIFEST.MF
 client/.travis.yml
+out/artifacts/server/exploded/server-0.1.war/META-INF/MANIFEST.MF
+gradlew
+*.jshintrc
+client/.yo-rc.json
+client/.bowerrc
