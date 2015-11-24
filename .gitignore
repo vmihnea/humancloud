@@ -233,6 +233,7 @@ build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
+/inspinia/gradle/wrapper/gradle-wrapper.properties
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
