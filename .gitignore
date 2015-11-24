@@ -1,3 +1,17 @@
+/server/build
+/server/gradle
+/inspinia/.bowerrc
+/inspinia/.yo-rc.json
+/inspinia/.jscsrc
+/inspinia/gradle
+/inspinia/node_modules
+/gradle
+/.gradle
+/.idea
+/target
+/node_modules
+/inspinia/.tmp
+/inspinia/vendor
 .gradle/2.5/taskArtifacts/cache.properties
 *.lock
 server/gradlew

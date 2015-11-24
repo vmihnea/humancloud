@@ -1,3 +1,4 @@
 rootProject.name = 'humancloud'
 include 'server'
+include 'inspinia'
 

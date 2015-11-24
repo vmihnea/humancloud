@@ -1,0 +1,55 @@
+{
+  "name": "inspinia",
+  "description": "Admin Template",
+  "private": true,
+  "version": "0.0.1",
+  "homepage": "https://github.com/vmihnea/humancloud",
+  "author": {
+    "name": "Vlad Mihnea",
+    "email": "vlad.mihai.mihnea@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vmihnea/humancloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vmihnea/humancloud/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vmihnea/humancloud/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": "~0.10.0"
+  },
+  "main": "server",
+  "bin": "bin/inspinia",
+  "scripts": {
+    "start": "node server",
+    "test": "grunt"
+  },
+  "dependencies": {
+    "express": "~3.0.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-clear": "~0.2.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-copy": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-htmlmin": "~0.1.0",
+    "grunt-contrib-imagemin": "~0.1.0",
+    "grunt-contrib-jshint": "~0.4.0",
+    "grunt-contrib-less": "~0.5.0",
+    "grunt-contrib-requirejs": "~0.4.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-karma": "^0.4.6",
+    "grunt-open": "~0.2.0",
+    "i": "~0.3.1",
+    "matchdep": "~0.1.0",
+    "underscore": "~1.4.4"
+  },
+  "keywords": []
+}

@@ -1,0 +1,13 @@
+plugins {
+  id "com.moowork.grunt" version "0.11"
+}
+
+version "0.0.1"
+group "inspinia"
+
+apply plugin: "com.moowork.grunt"
+apply plugin: 'distribution'
+
+task wrapper(type: Wrapper) {
+  gradleVersion = gradleWrapperVersion
+}
