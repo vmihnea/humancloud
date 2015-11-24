@@ -1,5 +1,5 @@
 (function () {
-    angular.module('inspinia', [
+    angular.module('portal', [
         'ngAnimate',
         'ngCookies',
         'ngResource',

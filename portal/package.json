@@ -1,5 +1,5 @@
 {
-  "name": "inspinia",
+  "name": "portal",
   "description": "Admin Template",
   "private": true,
   "version": "0.0.1",
@@ -25,7 +25,7 @@
     "node": "~0.10.0"
   },
   "main": "server",
-  "bin": "bin/inspinia",
+  "bin": "bin/portal",
   "scripts": {
     "start": "node server",
     "test": "grunt"

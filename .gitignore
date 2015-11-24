@@ -1,18 +1,18 @@
-/inspinia/dist
+/portal/dist
 /server/build
 /server/gradle
-/inspinia/.bowerrc
-/inspinia/.yo-rc.json
-/inspinia/.jscsrc
-/inspinia/gradle
-/inspinia/node_modules
+/portal/.bowerrc
+/portal/.yo-rc.json
+/portal/.jscsrc
+/portal/gradle
+/portal/node_modules
 /gradle
 /.gradle
 /.idea
 /target
 /node_modules
-/inspinia/.tmp
-/inspinia/vendor
+/portal/.tmp
+/portal/vendor
 *.lock
 *.jar
 *.bin
@@ -234,7 +234,7 @@ build/
 # Ignore Gradle GUI config
 gradle-app.setting
 /.idea/jsLibraryMappings.xml
-/inspinia/gradle/wrapper/gradle-wrapper.properties
+/portal/gradle/wrapper/gradle-wrapper.properties
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar

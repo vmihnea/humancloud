@@ -3217,7 +3217,7 @@ function ngGridCtrl($scope) {
  * Pass all functions into module
  */
 angular
-  .module('inspinia')
+  .module('portal')
   .controller('MainCtrl', MainCtrl)
   .controller('dashboardFlotOne', dashboardFlotOne)
   .controller('dashboardFlotTwo', dashboardFlotTwo)

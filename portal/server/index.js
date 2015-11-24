@@ -1,6 +1,6 @@
 
 /*
- * inspinia
+ * portal
  * https://github.com/vmihnea/humancloud
  *
  * Copyright (c) 2015 Vlad Mihnea
@@ -32,4 +32,4 @@ app.all('*', function(req, res) {
 
 app.listen(port)
 
-console.log('inspinia listening on port ' + port + '.');
+console.log('portal listening on port ' + port + '.');

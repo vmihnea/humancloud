@@ -1,5 +1,5 @@
 {
-  "name": "inspinia",
+  "name": "portal",
   "description": "Admin Template",
   "version": "0.0.1",
   "devDependencies": {
@@ -19,7 +19,7 @@
     "Vlad Mihnea <vlad.mihai.mihnea@gmail.com>"
   ],
   "main": "js/app.js",
-  "moduleName": "inspinia",
+  "moduleName": "portal",
   "moduleType": [
     "amd",
     "es6",
@@ -28,7 +28,7 @@
   ],
   "keywords": [
     "admin",
-    "inspinia",
+    "portal",
     "angular"
   ],
   "license": "MIT",

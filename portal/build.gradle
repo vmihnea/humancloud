@@ -3,7 +3,7 @@ plugins {
 }
 
 version "0.0.1"
-group "inspinia"
+group "portal"
 
 apply plugin: "com.moowork.grunt"
 apply plugin: 'distribution'

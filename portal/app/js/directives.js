@@ -375,7 +375,7 @@ function fancyBox() {
  * Pass all functions into module
  */
 angular
-    .module('inspinia')
+    .module('portal')
     .directive('pageTitle', pageTitle)
     .directive('sideNavigation', sideNavigation)
     .directive('iboxTools', iboxTools)
